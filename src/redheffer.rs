@@ -72,7 +72,3 @@ fn construct_global_scatter(scatter_list: Vec<HashMap<&str, DMatrix<f64>>>) -> H
 
     sg
 }
-
-fn main() {
-    // Example usage of the functions can be added here.
-}
