@@ -12,5 +12,6 @@ wasm-bindgen-futures = "0.4"
 rayon = "1.5"
 num = "0.4.0"
 tokio = { version = "1.17", features = ["full"] }
+nalgebra = "0.35"
 ndarray = "0.15"
 ndarray-linalg = "0.15"
