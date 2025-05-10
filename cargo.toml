@@ -15,3 +15,5 @@ tokio = { version = "1.17", features = ["full"] }
 nalgebra = "0.35"
 ndarray = "0.15"
 ndarray-linalg = "0.15"
+plotters = "0.3"
+rustfft = "6.0"
